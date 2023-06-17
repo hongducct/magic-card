@@ -105,7 +105,7 @@ a {
     height: 140px;
     border-radius: 50%;
     overflow: hidden;
-    margin: 10px auto;
+    margin: 0 auto;
     transform: translateY(30px);
 }
 
@@ -140,4 +140,8 @@ a {
     border-radius: 5px;
     padding: 10px 15px;
     font-size: 20px;
+}
+
+h2 {
+    margin: 50px;
 }
