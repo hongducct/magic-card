@@ -144,3 +144,13 @@ a {
 h2{
     margin: 50px;
 }
+
+@media (max-width: 400px)  {
+    :root {
+        --card-height: 500px;
+        --card-width: 350px;
+    }
+    h2 {
+        margin: 30px;
+    }
+}
